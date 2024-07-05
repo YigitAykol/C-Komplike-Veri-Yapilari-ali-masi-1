@@ -1,3 +1,3 @@
-<h2>Labirentten Çıkış Probleminin Yığıt ile Çözümü</h2>
-
-<a href="https://youtu.be/c4ZeiptXWj4">Anlatım Videosu</a>
+Sayi.txt nin okunarak sayilistesinin içindeki bağlı listeye her sayının basamak
+basmak kayıt edilerek liste üzerinde 3 ana işlem olan en büyük sayıyı çıkar,
+sayıların basamaklarını tersle ve tek basamakları başa al işlemidir.
